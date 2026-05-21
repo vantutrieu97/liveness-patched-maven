@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.amplifyframework.ui.patched</groupId>
+  <artifactId>liveness</artifactId>
+  <version>1.10.0</version>
+  <packaging>aar</packaging>
+  <name>AWS Amplify UI Liveness (Sunmi patch)</name>
+  <description>
+    Patched aws-amplify/amplify-ui-android liveness v1.10.0:
+    - LockPortraitOrientation no-op (landscape-fixed device)
+    - PreviewTextureView hardcoded 90deg rotation (Sunmi D3 Pro)
+    - LivenessCoordinator: color camera selector + hasCamera crash fix
+    - strings.xml: Vietnamese translations
+  </description>
+</project>
