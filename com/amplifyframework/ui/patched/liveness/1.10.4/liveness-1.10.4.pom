@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.amplifyframework.ui.patched</groupId>
+  <artifactId>liveness</artifactId>
+  <version>1.10.4</version>
+  <packaging>aar</packaging>
+  <name>AWS Amplify UI Liveness (Sunmi patch)</name>
+</project>
